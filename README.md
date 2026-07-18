@@ -30,4 +30,4 @@ ImproStock es una aplicación web desarrollada como proyecto académico para la 
 
 
 
-Proyecto desarrollado como evidencia de formación del programa **Análisis y Desarrollo de Software (ADSO) - SENA**.
+
